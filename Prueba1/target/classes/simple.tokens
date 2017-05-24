@@ -1,0 +1,17 @@
+MAS=1
+MENOS=2
+MULTI=3
+DIVIDIR=4
+PAREND=5
+PARENI=6
+ASIGNA=7
+ID=8
+INT=9
+WS=10
+'+'=1
+'-'=2
+'*'=3
+'/'=4
+')'=5
+'('=6
+'='=7
