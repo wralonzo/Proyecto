@@ -1,0 +1,27 @@
+SALTOLINEA=7
+PAR=9
+PARENI=5
+LLAVE=10
+C=13
+PAREND=4
+CICLO1=12
+INT=15
+CARACTER=11
+COMILLAS=1
+PUNTOCOMA=2
+MAIN=8
+ID=14
+ESPACIO=3
+WS=16
+ASIGNA=6
+'for'=13
+'='=6
+';'=2
+'{'=10
+')'=4
+'('=5
+'principal'=8
+'F'=12
+'"'=1
+'()'=9
+' '=3
